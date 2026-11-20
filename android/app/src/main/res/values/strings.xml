@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Focus Guard</string>
+    <string name="device_admin_description">This app requires device administrator privileges to help block distractions.</string>
+    <string name="accessibility_service_description">Focus Guard uses this service to detect which app is open, whether the Shorts, Reels or Telegram search screen is showing, and to read the address bar of web browsers so it can block the apps, features and adult websites you chose. All checks happen on your device. Nothing is stored or sent anywhere.</string>
+</resources>

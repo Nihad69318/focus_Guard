@@ -1,0 +1,91 @@
+{
+  "project_info": {
+    "project_number": "96623975228",
+    "firebase_url": "https://focus-guard-74aa3-default-rtdb.firebaseio.com",
+    "project_id": "focus-guard-74aa3",
+    "storage_bucket": "focus-guard-74aa3.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:96623975228:android:26ec72c60cea278ba29c39",
+        "android_client_info": {
+          "package_name": "com.example.focus_guard"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "96623975228-666qurrqn5clnjk26crqlok471gdsvd9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.focus_guard",
+            "certificate_hash": "a8af63f560a0d988b61dd4ce9d8ad3cd9e6a9e3c"
+          }
+        },
+        {
+          "client_id": "96623975228-o5d0v0h0809nd6at65g9s1406uv93opj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDtp1HTMiwde1m78bTEIRM_CZXfC3WvF5g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "96623975228-o5d0v0h0809nd6at65g9s1406uv93opj.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "96623975228-bgjjlme9ik9lnajm6sjt3nub4hq1n0uo.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.focusGuardApp"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:96623975228:android:86bf76687aa651e7a29c39",
+        "android_client_info": {
+          "package_name": "com.example.focus_guard_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "96623975228-o5d0v0h0809nd6at65g9s1406uv93opj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDtp1HTMiwde1m78bTEIRM_CZXfC3WvF5g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "96623975228-o5d0v0h0809nd6at65g9s1406uv93opj.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "96623975228-bgjjlme9ik9lnajm6sjt3nub4hq1n0uo.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.focusGuardApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

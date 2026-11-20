@@ -1,0 +1,1 @@
+Always explain and answer all my questions in Bengali (বাংলা), even if I ask in English. Keep code and technical terms in English.
